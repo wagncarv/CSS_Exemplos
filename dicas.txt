@@ -1,0 +1,7 @@
+# MARGIN
+-margin-top | margin-right | margin-bottom | margin-left
+- values: length | percentage | auto
+
+margin: 12px 8px 6px 4px -> top right bottom left
+margin: 12px 8px 6px -> top [right,left] bottom 
+margin: 12px 8px -> [top, bottom] | [right, left ]

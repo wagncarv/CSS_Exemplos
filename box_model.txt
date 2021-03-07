@@ -1,0 +1,10 @@
+# Box Model
+
+# O que é?
+Uma caixa retangular. Possui propriedades 2D.
+
+- Tamanho (larguraxaltura) width height
+- Conteúdo                  content
+- Bordas                    border
+- Preenchimento interno     padding
+- Espaços fora da caixa     margin
